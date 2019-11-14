@@ -1,0 +1,7 @@
+UniLu-Gaia-2014-5K: contains 5000 job-related data
+
+following files contain processor frequency, power, and execution time data for different HPC applications (file data format: frequency, power, runtime):
+app_quantum_espresso
+app_seissol
+app_bt
+app_gadget 
