@@ -1,0 +1,4 @@
+parse_job.py:- parses the job trace file and returns related
+information
+
+simulate_job.py:- An example of trace-based demand-response job simulation. 
