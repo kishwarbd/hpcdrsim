@@ -1,7 +1,7 @@
 # hpcdrsim
 
 Description:
-A basic demand response job simulator, with resource optimization
+A demand response job simulator, with resource optimization
 framework.
 
 Data:
