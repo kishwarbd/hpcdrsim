@@ -1,7 +1,9 @@
 # hpcdrsim
 
+HPC Demand Response Simulator
+
 Description:
-A demand response job simulator, with resource optimization
+A demand response HPC job simulator, with resource optimization
 framework.
 
 Data:
